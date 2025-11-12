@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 </p>
 
 - 🔭 I’m currently working on : [**_Lembar-Kerja-Mahasiswa_**](https://github.com/senkuu29/lembarKerjaMahasiswa)
-
- </br>
-
-- radit
