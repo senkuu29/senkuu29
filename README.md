@@ -1,4 +1,4 @@
-<h3 align="center">welcome!! my profile Github 👋</h3>
+<h2 align="center">welcome!! my profile Github 👋</h2>
 
 <!--
 **senkuu29/senkuu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
