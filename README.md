@@ -1,4 +1,4 @@
-## welcome!! my profile Github 👋
+<h3 align="center">welcome!! my profile Github 👋</h3>
 
 <!--
 **senkuu29/senkuu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhob2VpYXV0cWdleGhnbjlhcmhzc2dlMHpnbTM5OWd0aG1uNXp2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4QxQgWZHbeYwM/giphy.gif)
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhob2VpYXV0cWdleGhnbjlhcmhzc2dlMHpnbTM5OWd0aG1uNXp2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4QxQgWZHbeYwM/giphy.gif)
 
-- ##### ⚡Skils :
+<h5> 🌐 Skils language :</h5>
 
+<div align="center">
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html" />
   </a>
-</p>
+</div>
+<br>
+<h5> 🛠️ Tools :</h5>
+
+<div align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=github,git,discord,docker,figma,postman" />
+  </a>
+</div>
+<br>
 
 - 🔭 I’m currently working on : [**_Lembar-Kerja-Mahasiswa_**](https://github.com/senkuu29/lembarKerjaMahasiswa)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elsecx/elsecx/output/snake.svg" alt="Snake animation" />
+</div>
