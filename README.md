@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](image/github-header-banner.png)
+<!-- ![banner](image/github-header-banner.png) -->
 
 [](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGZrdGgzYm0wcjQwc3B4Znkzbzk3c21iZmd2dWE2NHNuajFtaHVoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KH1CTZtw1iP3W/giphy.gif)
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y2anhqb3V3Y2cweGR5ZnQwczhzYXBxODFkMmRtZjdvN21uMTljYiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/bqxbgri8lBSzvMVI3Y/giphy.gif)
 
 - ##### ⚡Skils : <p align="center">
 
