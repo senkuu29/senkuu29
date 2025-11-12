@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h5> 🌐 Skils language :</h5>
 <div>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
   </a>
 </div>
 <br>
