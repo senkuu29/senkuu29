@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - ##### ⚡Skils :
 
-  <a href="https://github.com/senkuu29" align="center">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html" />
   </a>
 </p>
