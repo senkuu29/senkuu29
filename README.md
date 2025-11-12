@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 [](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGZrdGgzYm0wcjQwc3B4Znkzbzk3c21iZmd2dWE2NHNuajFtaHVoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KH1CTZtw1iP3W/giphy.gif)
 
-- ##### ⚡Skils : <p align="center">
+- ##### ⚡Skils :
 
-  <a href="https://skillicons.dev" align="center">
+  <a href="https://github.com/senkuu29" align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html" />
   </a>
 </p>
