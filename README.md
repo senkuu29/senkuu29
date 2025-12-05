@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-- 🔭 I’m currently working on : [**_Lembar-Kerja-Mahasiswa_**](https://github.com/senkuu29/sistem-reservasi-responsi)
+- 🔭 I’m currently working on : [**Sistem-Reservasi-Responsi**](https://github.com/senkuu29/sistem-reservasi-responsi)
 
 <!-- snake -->
 <div align="center">
